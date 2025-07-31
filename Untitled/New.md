@@ -1,3 +1,3 @@
 NEW  test 
 обновление
-[[Welcome]]
+[[Welcome 2]]
